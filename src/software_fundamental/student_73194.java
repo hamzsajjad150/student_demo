@@ -12,6 +12,7 @@ package software_fundamental;
 public class student_73194 {
     private int studId;
     private String studName;
+    private String program;
 
     public student_73194() {
     }
@@ -36,6 +37,15 @@ public class student_73194 {
     public void setStudName(String studName) {
         this.studName = studName;
     }
+
+    public String getProgram() {
+        return program;
+    }
+
+    public void setProgram(String program) {
+        this.program = program;
+    }
+    
     
     public static void main(String[] args) {
         student_73194 s1 = new student_73194();
