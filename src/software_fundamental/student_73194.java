@@ -14,6 +14,7 @@ public class student_73194 {
     private String studName;
     private String program;
     private String course;
+    private String demo
     
     public student_73194() {
     }
