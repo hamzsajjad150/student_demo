@@ -13,7 +13,8 @@ public class student_73194 {
     private int studId;
     private String studName;
     private String program;
-
+    private String course;
+    
     public student_73194() {
     }
 
